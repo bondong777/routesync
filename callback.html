@@ -1,0 +1,16 @@
+<html>
+<head>
+<script>
+  // URL의 code 파라미터를 앱으로 전달
+  var url = window.location.href;
+  var appUrl = url.replace(
+    'https://bondong777.github.io/routesync/callback',
+    'navisync://callback'
+  );
+  window.location.href = appUrl;
+</script>
+</head>
+<body>
+<p>NaviSync로 돌아가는 중...</p>
+</body>
+</html>
