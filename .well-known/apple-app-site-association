@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7TAHNWT6UP.com.interlink.TeslaRouteSync",
+        "paths": ["/routesync/callback"]
+      }
+    ]
+  }
+}
